@@ -1,6 +1,6 @@
 [![Banner](https://codecrafters.io/images/new-ccgithub-banner.png)](https://codecrafters.io/github-banner)
 
-## Build your own &lt;insert-technology-here&gt;
+## Build your own
 
 This repository is a compilation of well written, step-by-step guides for re-creating our favorite technologies from scratch.
 
